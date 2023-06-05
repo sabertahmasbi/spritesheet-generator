@@ -1,0 +1,9 @@
+.sh-icon-0{background-position:-0px 0px}
+.sh-icon-1{background-position:-48px 0px}
+.sh-icon-2{background-position:-96px 0px}
+.sh-icon-3{background-position:-144px 0px}
+.sh-icon {
+                width: 48px; 
+                height: 48px;
+                background: url('./menu-icons.png');
+            }

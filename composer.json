@@ -1,0 +1,18 @@
+{
+    "name": "sabi/spritesheet-generator",
+    "description": "Simple php library that combine seperated images(png) to one spritesheet image and replace background color with transparent and generate css",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Sabi\\SpritesheetGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sabertahmasbi",
+            "email": "saber.info.ilam@gmail.com"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "dev"
+}
