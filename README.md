@@ -12,7 +12,7 @@ Simple php library that combine seperated images(png) to one spritesheet image a
 Install with composer
 
 ```bash
-  composer require 
+  composer require sabi/spritesheet-generator
 ```
     
 ## Tech Stack
